@@ -1,16 +1,26 @@
 body {
   background-color: powderblue;
+  font-size: 80%;
+  padding: 20px;
 }
-h1 {
-  color: blue;
+
+main{
+  background: white;
+  height: 200px;
+  width: 60%;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  resize: both;
+  overflow: auto;
 }
-p {
-  color: red;
-}
-#child {
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    font-size:70px;
-    line-height: 200px;
+#logo{
+  background: black;
+  color: white;
+  width: 50%;
+  padding: 20px;
+  resize: both;
+  overflow: auto;
 }
