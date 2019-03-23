@@ -1,4 +1,5 @@
 body {
+  background: lightblue url("https://images.unsplash.com/photo-1550732276-5e9388ad35d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1589&q=80") no-repeat fixed center; 
   background-color: #8ED6FF;
   font-size: 100px;
   padding: 20px;
@@ -34,8 +35,7 @@ a:hover{
   font-family: 'Cunia';
   text-decoration:none;
   color: #ffc1c8;
-  width: 50%;
-  //padding: 30px;
+  width: 30%;
   overflow: auto;
   text-align:center;
   -webkit-animation: text-pop-up-top 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
