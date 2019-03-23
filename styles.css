@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background-color: #8ED6FF;
   font-size: 100px;
   padding: 0px;
 }
@@ -21,8 +21,17 @@ main{
   src: url('https://github.com/loveyourherpes/loveyourherpessite/blob/master/Cunia.ttf?raw=true');
 }
 #logo{
+  text-shadow:
+     -1px -1px 0 #FFF,
+     0   -1px 0 #FFF,
+     1px -1px 0 #FFF,
+     1px  0   0 #FFF,
+     1px  1px 0 #FFF,
+     0    1px 0 #FFF,
+    -1px  1px 0 #FFF,
+    -1px  0   0 #FFF;
   font-family: 'Cunia';
-  color: pink;
+  color: #ffc1c8;
   width: 50%;
   padding: 0px;
   resize: both;
