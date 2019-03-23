@@ -15,6 +15,11 @@ main{
   resize: both;
   overflow: auto;
 }
+
+@font-face{
+  font-family: 'Cunia';
+  src: url('https://github.com/loveyourherpes/loveyourherpessite/blob/master/Cunia.ttf?raw=true');
+}
 #logo{
   font-family: 'Cunia';
   color: pink;
