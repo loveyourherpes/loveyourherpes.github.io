@@ -1,5 +1,5 @@
 body {
-  background: lightblue url("https://images.unsplash.com/photo-1550732276-5e9388ad35d2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1589&q=80") no-repeat fixed center; 
+  background: lightblue url("https://raw.githubusercontent.com/loveyourherpes/loveyourherpessite/master/background.jpg") no-repeat fixed center; 
   background-color: #8ED6FF;
   font-size: 100px;
   padding: 20px;
@@ -23,7 +23,9 @@ main{
 
 a{
   text-decoration:none;
-  color:#ffc1c8;
+  //color:#ffc1c8;
+  //color: #fff8cd;
+  color:white;
 }
 a:hover{
   text-decoration:none;
@@ -31,10 +33,12 @@ a:hover{
 }
 
 #logo{
-  background: #fff8cd;
+  //background: #fff8cd;
+  //color: #fff8cd;
+  color:white;
   font-family: 'Cunia';
   text-decoration:none;
-  color: #ffc1c8;
+  //color: #ffc1c8;
   width: 30%;
   overflow: auto;
   text-align:center;
