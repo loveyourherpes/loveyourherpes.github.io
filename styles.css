@@ -75,7 +75,7 @@ a:hover{
   font-family: 'Cunia';
   font-size: 30px;
   color: white;
-  padding: 20px;
+  padding-bottom: 20px;
   overflow: auto;
 }
 #merch a{
