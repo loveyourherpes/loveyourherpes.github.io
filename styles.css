@@ -7,3 +7,10 @@ h1 {
 p {
   color: red;
 }
+#child {
+    display:flex;
+    justify-content:center;
+    align-itmes:center;
+    font-size:70px;
+    line-height: 200px;
+}
