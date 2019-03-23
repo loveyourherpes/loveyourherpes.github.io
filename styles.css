@@ -39,7 +39,7 @@ a:hover{
   font-family: 'Cunia';
   text-decoration:none;
   //color: #ffc1c8;
-  width: 30%;
+  width: 100%;
   overflow: auto;
   text-align:center;
   -webkit-animation: text-pop-up-top 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
