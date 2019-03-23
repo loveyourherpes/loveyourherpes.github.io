@@ -2,14 +2,13 @@ body {
   background: lightblue url("https://raw.githubusercontent.com/loveyourherpes/loveyourherpessite/master/background.jpg") no-repeat fixed center; 
   background-color: #8ED6FF;
   font-size: 100px;
-  padding: 20px;
+  padding: 10px;
 }
 
 main{
-  height: 30%;
+  height: 0%;
   width: 100%;
   margin: 0 auto;
-  padding-top: 70px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -33,7 +32,6 @@ a:hover{
 }
 
 #logo{
-  //background: #fff8cd;
   //color: #fff8cd;
   color:white;
   font-family: 'Cunia';
